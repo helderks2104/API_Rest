@@ -13,7 +13,6 @@ require('./database');
 
 const whiteList = [
   'http://localhost:3000',
-  'google.com',
 ]
 
 const corsOption = {
